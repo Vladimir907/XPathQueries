@@ -1,0 +1,19 @@
+{
+    "name": "vvrevchuk/xpathqueries",
+    "description": "Library for working with XPath queries to xml",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladimir Revchuk",
+            "email": "carter123@ua.fm"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "XPathQueries\\": "src/"
+        }
+    }
+}
